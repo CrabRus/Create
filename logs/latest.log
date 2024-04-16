@@ -1,0 +1,1053 @@
+[19:27:53] [main/INFO]: ModLauncher running: args [--username, CrabRus, --version, MyCreate, --gameDir, C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate, --assetsDir, C:\Users\gonca\AppData\Roaming\.minecraft\assets, --assetIndex, 1.18, --uuid, 7103e776672241bb9b3306273d93473d, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, release, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.4, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[19:27:53] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
+[19:27:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/gonca/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[19:27:55] [main/INFO]: Found mod file AdvancementPlaques-1.18.2-1.4.5.1.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file appleskin-forge-mc1.18.2-2.5.1.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file architectury-4.12.94-forge.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file artifacts-1.18.2-4.2.3.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file BetterF3-3.0.0-Forge-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file carryon-1.18.2-1.17.2.15.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file cloth-config-6.5.116-forge.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file create-1.18.2-0.5.1.f.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file create-stuff-additions1.18.2_v2.0.4a.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file createaddition-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file createdeco-1.3.3-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file curios-forge-1.18.2-5.0.9.2.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file expandability-6.0.0.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file FarmersDelight-1.18.2-1.2.3.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file framework-forge-1.18.2-0.4.3.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file geckolib-forge-1.18-3.0.57.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file goblintraders-1.8.0-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file gravestone-1.18.2-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file Iceberg-1.18.2-forge-1.0.49.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file Jade-1.18.2-forge-5.3.2.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file jei-1.18.2-forge-10.2.1.1006.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file lootr-forge-1.18.2-0.3.28.70.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file mna-2.0.0.33.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file MouseTweaks-forge-mc1.18-2.21.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file NaturesCompass-1.18.2-1.9.7-forge.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file octolib-1.18.2-0.3.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file reap-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file relics-1.18.2-0.6.2.4.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file rubidium-0.5.6.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file rubidium-extra-0.4.18+mc1.18.2-build.86.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file sophisticatedbackpacks-1.18.2-3.20.2.1036.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file sophisticatedcore-1.18.2-0.6.4.586.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file StorageDrawers-1.18.2-10.2.1.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file TextruesRubidiumOptions-1.0.8-mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file tl_skin_cape_forge_1.18_1.18.2-1.25.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file Xaeros_Minimap_24.1.1_Forge_1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:55] [main/INFO]: Found mod file XaerosWorldMap_1.38.4_Forge_1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\mods}
+[19:27:56] [main/WARN]: Mod file C:\Users\gonca\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.4\fmlcore-1.18.2-40.2.4.jar is missing mods.toml file
+[19:27:56] [main/WARN]: Mod file C:\Users\gonca\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.4\javafmllanguage-1.18.2-40.2.4.jar is missing mods.toml file
+[19:27:56] [main/WARN]: Mod file C:\Users\gonca\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.4\lowcodelanguage-1.18.2-40.2.4.jar is missing mods.toml file
+[19:27:56] [main/WARN]: Mod file C:\Users\gonca\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.4\mclanguage-1.18.2-40.2.4.jar is missing mods.toml file
+[19:27:56] [main/INFO]: Found mod file fmlcore-1.18.2-40.2.4.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@181d7f28
+[19:27:56] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.2.4.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@181d7f28
+[19:27:56] [main/INFO]: Found mod file lowcodelanguage-1.18.2-40.2.4.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@181d7f28
+[19:27:56] [main/INFO]: Found mod file mclanguage-1.18.2-40.2.4.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@181d7f28
+[19:27:56] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@181d7f28
+[19:27:56] [main/INFO]: Found mod file forge-1.18.2-40.2.4-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@181d7f28
+[19:27:56] [main/INFO]: Found 4 dependencies adding them to mods collection
+[19:27:56] [main/INFO]: Found mod file json-path-2.9.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3e83c18
+[19:27:56] [main/INFO]: Found mod file flywheel-forge-1.18.2-0.6.10-105.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3e83c18
+[19:27:56] [main/INFO]: Found mod file ColaMixinConfig-v1.0.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3e83c18
+[19:27:56] [main/INFO]: Found mod file Registrate-MC1.18.2-1.1.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3e83c18
+[19:28:01] [main/INFO]: Compatibility level set to JAVA_17
+[19:28:01] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[19:28:01] [main/INFO]: Launching target 'forgeclient' with arguments [--version, MyCreate, --gameDir, C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate, --assetsDir, C:\Users\gonca\AppData\Roaming\.minecraft\assets, --uuid, 7103e776672241bb9b3306273d93473d, --username, CrabRus, --assetIndex, 1.18, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, release, --width, 925, --height, 530]
+[19:28:01] [main/WARN]: Reference map 'octolib.refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:28:01] [main/INFO]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[19:28:01] [main/INFO]: Loaded configuration file for Rubidium: 28 options available, 0 override(s) found
+[19:28:01] [main/INFO]: Loaded configuration file for Sodium Extra: 30 options available, 0 override(s) found
+[19:28:24] [Render thread/WARN]: Assets URL 'union:/C:/Users/gonca/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2392!/assets/.mcassetsroot' uses unexpected schema
+[19:28:24] [Render thread/WARN]: Assets URL 'union:/C:/Users/gonca/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2392!/data/.mcassetsroot' uses unexpected schema
+[19:28:24] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:28:24] [Render thread/INFO]: Setting user: CrabRus
+[19:28:25] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[19:28:30] [modloading-worker-0/INFO]: No shaders mod detected.
+[19:28:30] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[19:28:30] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[19:28:32] [modloading-worker-0/INFO]: M&A -> Config Loaded
+[19:28:34] [modloading-worker-0/INFO]: [BetterF3] Starting...
+[19:28:34] [modloading-worker-0/INFO]: [BetterF3] Loading...
+[19:28:34] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[19:28:34] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[19:28:34] [modloading-worker-0/INFO]: [BetterF3] All done!
+[19:28:34] [modloading-worker-0/INFO]: Forge mod loading, version 40.2.4, for MC 1.18.2 with MCP 20220404.173914
+[19:28:34] [modloading-worker-0/INFO]: MinecraftForge v40.2.4 Initialized
+[19:28:34] [modloading-worker-0/INFO]: ExpandAbility here, who dis?
+[19:28:35] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[19:28:38] [modloading-worker-0/INFO]: M&A -> Mod Event Bus Handlers Registered
+[19:28:40] [Render thread/INFO]: Finished registering registries!
+[19:28:48] [Render thread/INFO]: M&A -> Block Items Registered
+[19:28:48] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:48] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:49] [Render thread/INFO]: M&A -> Containers Registered
+[19:28:49] [Render thread/INFO]: M&A -> Villager POI Registered
+[19:28:49] [Render thread/INFO]: M&A -> Villager Professions Registered
+[19:28:49] [Render thread/INFO]: Mana and Artifice >> Registered Construct Tasks
+[19:28:49] [Render thread/INFO]: M&A -> Ritual Effects Registered
+[19:28:50] [Render thread/WARN]: defineId called for: class com.mna.entities.boss.BossMonster from class com.mna.entities.boss.Odin
+[19:28:50] [Render thread/WARN]: defineId called for: class com.mna.entities.boss.BossMonster from class com.mna.entities.boss.Odin
+[19:28:52] [Render thread/INFO]: M&A -> Particle Factories Registered
+[19:28:52] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[19:28:54] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources
+[19:29:19] [Worker-Main-6/WARN]: Unable to load model: 'createaddition:block/connector/large/passive' referenced from: createaddition:large_connector#facing=north,mode=push,rotation=none: java.io.FileNotFoundException: createaddition:models/block/connector/large/passive.json
+[19:29:24] [Worker-Main-6/WARN]: Unable to load model: 'minecraft:brass_drone' referenced from: create_sa:brass_drone_item#inventory: java.io.FileNotFoundException: minecraft:models/brass_drone.json
+[19:29:24] [Worker-Main-6/WARN]: Unable to load model: 'minecraft:flamethrower' referenced from: create_sa:flamethrower#inventory: java.io.FileNotFoundException: minecraft:models/flamethrower.json
+[19:29:25] [Worker-Main-6/WARN]: Unable to load model: 'mna:living_ward_spawn_egg#inventory' referenced from: mna:living_ward_spawn_egg#inventory: java.io.FileNotFoundException: mna:models/item/living_ward_spawn_egg.json
+[19:29:25] [Worker-Main-6/WARN]: Unable to load model: 'mna:barkling_spawn_egg#inventory' referenced from: mna:barkling_spawn_egg#inventory: java.io.FileNotFoundException: mna:models/item/barkling_spawn_egg.json
+[19:29:25] [Worker-Main-6/WARN]: Unable to load model: 'mna:chatterer_spawn_egg#inventory' referenced from: mna:chatterer_spawn_egg#inventory: java.io.FileNotFoundException: mna:models/item/chatterer_spawn_egg.json
+[19:29:31] [Worker-Main-6/WARN]: Unable to resolve texture reference: #missing in createaddition:block/connector/small_light
+[19:29:33] [Worker-Main-4/INFO]: New compacting rule 4 clay_ball = 1 clay
+[19:29:33] [Worker-Main-4/INFO]: New compacting rule 4 snowball = 1 snow_block
+[19:29:33] [Worker-Main-4/INFO]: New compacting rule 4 glowstone_dust = 1 glowstone
+[19:29:33] [Worker-Main-4/INFO]: New compacting rule 4 brick = 1 bricks
+[19:29:33] [Worker-Main-4/INFO]: New compacting rule 4 nether_brick = 1 nether_bricks
+[19:29:33] [Worker-Main-4/INFO]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[19:29:33] [Worker-Main-4/INFO]: New compacting rule 4 quartz = 1 quartz_block
+[19:29:33] [Worker-Main-4/INFO]: New compacting rule 9 melon_slice = 1 melon
+[19:29:33] [Worker-Main-4/INFO]: New compacting rule 4 sand = 1 sandstone
+[19:29:33] [Worker-Main-4/INFO]: New compacting rule 4 red_sand = 1 red_sandstone
+[19:29:33] [Worker-Main-4/INFO]: New compacting rule 4 clay_ball = 1 clay
+[19:29:33] [Worker-Main-4/INFO]: M&A -> Network Messages Registered
+[19:29:33] [Worker-Main-4/INFO]: Mana And Artifice >> Registered loot functions
+[19:29:33] [Worker-Main-4/INFO]: M&A -> Flower Pots Registered
+[19:29:34] [Forge Version Check/INFO]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[19:29:34] [Render thread/ERROR]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / mna:runeforging-type]' to registry
+[19:29:34] [Render thread/INFO]: M&A -> Recipe Types Registered
+[19:29:35] [Worker-Main-5/INFO]: Loading Xaero's Minimap - Stage 1/2
+[19:29:35] [Worker-Main-9/ERROR]: Using missing texture, unable to load relics:textures/item/elytra_booster_broken.png : java.io.FileNotFoundException: relics:textures/item/elytra_booster_broken.png
+[19:29:35] [Worker-Main-5/INFO]: Backing up XaeroWaypoints...
+[19:29:35] [Worker-Main-5/INFO]: Done backing up XaeroWaypoints!
+[19:29:35] [Worker-Main-9/INFO]: Loading Xaero's World Map - Stage 1/2
+[19:29:35] [Worker-Main-5/INFO]: M&A -> Gui Screens Registered
+[19:29:35] [Worker-Main-5/INFO]: M&A -> Keybindings Registered
+[19:29:35] [Worker-Main-5/INFO]: M&A -> Tile Entity Renderers Registered
+[19:29:35] [Worker-Main-5/INFO]: M&A -> Block Render Layers Set
+[19:29:36] [Worker-Main-5/INFO]: M&A -> Entity Renderers Registered
+[19:29:36] [Worker-Main-8/ERROR]: Using missing texture, unable to load relics:textures/item/shadow_glaive_broken.png : java.io.FileNotFoundException: relics:textures/item/shadow_glaive_broken.png
+[19:29:36] [Worker-Main-5/ERROR]: Using missing texture, unable to load relics:textures/item/chorus_inhibitor_broken.png : java.io.FileNotFoundException: relics:textures/item/chorus_inhibitor_broken.png
+[19:29:36] [Worker-Main-5/ERROR]: Using missing texture, unable to load relics:textures/item/blazing_flask_broken.png : java.io.FileNotFoundException: relics:textures/item/blazing_flask_broken.png
+[19:29:36] [Forge Version Check/INFO]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[19:29:36] [Forge Version Check/INFO]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
+[19:29:37] [Worker-Main-5/ERROR]: Using missing texture, unable to load relics:textures/item/midnight_robe_broken.png : java.io.FileNotFoundException: relics:textures/item/midnight_robe_broken.png
+[19:29:37] [Worker-Main-8/ERROR]: Using missing texture, unable to load relics:textures/item/roller_skates_broken.png : java.io.FileNotFoundException: relics:textures/item/roller_skates_broken.png
+[19:29:37] [Worker-Main-4/ERROR]: Using missing texture, unable to load relics:textures/item/bastion_ring_broken.png : java.io.FileNotFoundException: relics:textures/item/bastion_ring_broken.png
+[19:29:37] [Worker-Main-8/ERROR]: Using missing texture, unable to load relics:textures/item/spatial_sign_broken.png : java.io.FileNotFoundException: relics:textures/item/spatial_sign_broken.png
+[19:29:37] [Forge Version Check/INFO]: [reap] Found status: UP_TO_DATE Current: 1.18.2-1.0.0 Target: null
+[19:29:37] [Forge Version Check/INFO]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[19:29:37] [Worker-Main-4/ERROR]: Using missing texture, unable to load relics:textures/item/drowned_belt_broken.png : java.io.FileNotFoundException: relics:textures/item/drowned_belt_broken.png
+[19:29:37] [Worker-Main-5/ERROR]: Using missing texture, unable to load relics:textures/item/magic_mirror_broken.png : java.io.FileNotFoundException: relics:textures/item/magic_mirror_broken.png
+[19:29:38] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[19:29:38] [Forge Version Check/INFO]: [iceberg] Found status: UP_TO_DATE Current: 1.0.49 Target: null
+[19:29:38] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[19:29:38] [Worker-Main-5/ERROR]: Using missing texture, unable to load relics:textures/item/ice_breaker_broken.png : java.io.FileNotFoundException: relics:textures/item/ice_breaker_broken.png
+[19:29:38] [Forge Version Check/INFO]: [flywheel] Found status: AHEAD Current: 0.6.10-105 Target: null
+[19:29:38] [Forge Version Check/INFO]: [sodiumextra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[19:29:38] [Worker-Main-5/ERROR]: Using missing texture, unable to load relics:textures/item/wool_mitten_broken.png : java.io.FileNotFoundException: relics:textures/item/wool_mitten_broken.png
+[19:29:38] [Worker-Main-9/ERROR]: Using missing texture, unable to load relics:textures/item/reflection_necklace_broken.png : java.io.FileNotFoundException: relics:textures/item/reflection_necklace_broken.png
+[19:29:38] [Forge Version Check/INFO]: [sodiumextra] Found status: UP_TO_DATE Current: 0.4.18+mc1.18.2-build.86 Target: null
+[19:29:38] [Forge Version Check/INFO]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[19:29:38] [Worker-Main-5/ERROR]: Using missing texture, unable to load relics:textures/item/space_dissector_broken.png : java.io.FileNotFoundException: relics:textures/item/space_dissector_broken.png
+[19:29:38] [Forge Version Check/INFO]: [gravestone] Found status: UP_TO_DATE Current: 1.18.2-1.0.2 Target: null
+[19:29:38] [Forge Version Check/INFO]: [mna] Starting version check at https://manaandartifice.com/update.json
+[19:29:38] [Worker-Main-5/ERROR]: Using missing texture, unable to load relics:textures/item/horse_flute_broken.png : java.io.FileNotFoundException: relics:textures/item/horse_flute_broken.png
+[19:29:39] [Worker-Main-8/ERROR]: Using missing texture, unable to load relics:textures/item/arrow_quiver_broken.png : java.io.FileNotFoundException: relics:textures/item/arrow_quiver_broken.png
+[19:29:39] [Render thread/INFO]: Registered player tracker system: minimap_synced
+[19:29:39] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[19:29:39] [Render thread/INFO]: No Optifine!
+[19:29:39] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[19:29:39] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[19:29:39] [Render thread/INFO]: New world map region cache hash code: 747283566
+[19:29:39] [Render thread/INFO]: Registered player tracker system: map_synced
+[19:29:39] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[19:29:39] [Render thread/INFO]: Registered player tracker system: minimap_synced
+[19:29:39] [Render thread/INFO]: No Optifine!
+[19:29:39] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[19:29:39] [Worker-Main-5/ERROR]: Using missing texture, unable to load relics:textures/item/leather_belt_broken.png : java.io.FileNotFoundException: relics:textures/item/leather_belt_broken.png
+[19:29:39] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2336!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.4.jar%2393!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.4.jar%2393!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2336!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2336!/:?]
+	... 6 more
+[19:29:39] [Forge Version Check/INFO]: [betterf3] Starting version check at https://api.modrinth.com/updates/betterf3/forge_updates.json
+[19:29:39] [Worker-Main-5/ERROR]: Using missing texture, unable to load relics:textures/item/hunter_belt_broken.png : java.io.FileNotFoundException: relics:textures/item/hunter_belt_broken.png
+[19:29:39] [Worker-Main-4/ERROR]: Using missing texture, unable to load relics:textures/item/holy_locket_broken.png : java.io.FileNotFoundException: relics:textures/item/holy_locket_broken.png
+[19:29:39] [Worker-Main-9/ERROR]: Using missing texture, unable to load relics:textures/item/spore_sack_broken.png : java.io.FileNotFoundException: relics:textures/item/spore_sack_broken.png
+[19:29:39] [Worker-Main-9/ERROR]: Using missing texture, unable to load relics:textures/item/jellyfish_necklace_broken.png : java.io.FileNotFoundException: relics:textures/item/jellyfish_necklace_broken.png
+[19:29:39] [Worker-Main-4/ERROR]: Using missing texture, unable to load relics:textures/item/ice_skates_broken.png : java.io.FileNotFoundException: relics:textures/item/ice_skates_broken.png
+[19:29:40] [Forge Version Check/INFO]: [betterf3] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[19:29:40] [Forge Version Check/INFO]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[19:29:40] [Worker-Main-4/ERROR]: Using missing texture, unable to load relics:textures/item/infinity_ham_broken.png : java.io.FileNotFoundException: relics:textures/item/infinity_ham_broken.png
+[19:29:41] [Forge Version Check/INFO]: [framework] Found status: BETA Current: 0.4.3 Target: 0.4.3
+[19:29:41] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19:29:41] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Current: 40.2.4 Target: 40.2.18
+[19:29:41] [Forge Version Check/INFO]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[19:29:41] [Forge Version Check/INFO]: [advancementplaques] Found status: UP_TO_DATE Current: 1.4.5.1 Target: null
+[19:29:43] [Worker-Main-8/WARN]: Unused frames in sprite relics:item/spore_sack: [10]
+[19:29:43] [Worker-Main-4/WARN]: Invalid frame index on sprite relics:item/wool_mitten frame 14: 14
+[19:29:44] [Render thread/INFO]: Loaded all shader sources.
+[19:29:44] [Worker-Main-4/INFO]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[19:29:44] [Worker-Main-4/INFO]: Start loading plugin at snownee.jade.VanillaPlugin
+[19:29:44] [Worker-Main-4/INFO]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[19:29:44] [Worker-Main-4/INFO]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[19:29:44] [Worker-Main-6/INFO]: M&A API initialized, it is now useable
+[19:29:59] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Динамики / головные телефоны (Realtek High Definition Audio)
+[19:29:59] [Render thread/INFO]: Sound engine started
+[19:29:59] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[19:29:59] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[19:29:59] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:29:59] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:29:59] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:29:59] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:29:59] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:30:22] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/particles.png-atlas
+[19:30:22] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:30:22] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:30:22] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[19:30:22] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[19:30:22] [Render thread/INFO]: Successfully reloaded the world map shaders!
+[19:30:23] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:32:17] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[19:32:27] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:32:27] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:32:27] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:32:27] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:32:27] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:32:27] [Render thread/WARN]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:32:27] [Render thread/WARN]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:32:27] [Render thread/WARN]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:32:27] [Render thread/WARN]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:32:29] [Worker-Main-8/ERROR]: Couldn't load tag createaddition:spools as it is missing following references: createaddition:iron_spool (from createaddition-1.18.2-1.0.0.jar)
+[19:32:40] [Render thread/WARN]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/bolt
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/inverted_triangle
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/backslash
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/triangle
+[19:32:41] [Render thread/WARN]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[19:32:41] [Render thread/WARN]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/knot4
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/knot2
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/knot3
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/slash
+[19:32:41] [Render thread/WARN]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[19:32:41] [Render thread/WARN]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/diamond
+[19:32:41] [Render thread/WARN]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/inverted_split_triangle
+[19:32:41] [Render thread/WARN]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/star
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/square
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/infinity
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/split_triangle
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/circle
+[19:32:41] [Render thread/WARN]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[19:32:41] [Render thread/WARN]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/hourglass
+[19:32:41] [Render thread/WARN]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[19:32:41] [Render thread/INFO]: Received new training data for mna:manaweave_patterns/knot
+[19:32:41] [Render thread/INFO]: Loaded 42 recipes
+[19:32:47] [Render thread/INFO]: Loaded 3656 advancements
+[19:32:54] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:32:55] [Server thread/INFO]: Starting integrated minecraft server version 1.18.2
+[19:32:55] [Server thread/INFO]: Generating keypair
+[19:32:56] [Server thread/WARN]: Configuration file C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\saves\ZU WARDO\serverconfig\mna-general.toml is not correct. Correcting
+[19:32:56] [Server thread/WARN]: Incorrect key ma_general_options.spellDimensionBlacklist was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key ma_general_options.spellBiomeBlacklist was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key ma_general_options.summonBlacklist was corrected from [occultism:possessed_skeleton, occultism:possessed_ghast, occultism:possessed_enderman, occultism:possessed_endermite] to its default, [occultism:possessed_skeleton, occultism:possessed_ghast, occultism:possessed_enderman, occultism:possessed_endermite]. 
+[19:32:56] [Server thread/WARN]: Incorrect key ma_general_options.breakMapping was corrected from [minecraft:stone, minecraft:iron, minecraft:diamond] to its default, [minecraft:stone, minecraft:iron, minecraft:diamond]. 
+[19:32:56] [Server thread/WARN]: Incorrect key ma_general_options.damageColors was corrected from [inFire:0xff7400, onFire:0xff7400, lightningBolt:0xe5e51a, lava:0xffffff, hotFloor:0xff7400, inWall:0xffffff, cramming:0xffffff, drown:0x3a92dc, starve:0x03790e, cactus:0x03790e, fall:0xffffff, flyIntoWall:0xffffff, outOfWorld:0xffffff, generic:0xffffff, magic:0x871572, wither:0x471b3f, anvil:0xffffff, fallingBlock:0xffffff, dragonBreath:0x871572, dryout:0xdbc88f, sweetBerryBush:0x03790e, freeze:0x18dee4, fallingStalactite:0xffffff, stalagmite:0xffffff, ma-lightning:0xe5e51a, ma-briars:0x03790e, disperse:0x18dee4, shuriken:0xffffff, conflagrate:0xff7400] to its default, [inFire:0xff7400, onFire:0xff7400, lightningBolt:0xe5e51a, lava:0xffffff, hotFloor:0xff7400, inWall:0xffffff, cramming:0xffffff, drown:0x3a92dc, starve:0x03790e, cactus:0x03790e, fall:0xffffff, flyIntoWall:0xffffff, outOfWorld:0xffffff, generic:0xffffff, magic:0x871572, wither:0x471b3f, anvil:0xffffff, fallingBlock:0xffffff, dragonBreath:0x871572, dryout:0xdbc88f, sweetBerryBush:0x03790e, freeze:0x18dee4, fallingStalactite:0xffffff, stalagmite:0xffffff, ma-lightning:0xe5e51a, ma-briars:0x03790e, disperse:0x18dee4, shuriken:0xffffff, conflagrate:0xff7400]. 
+[19:32:56] [Server thread/WARN]: Incorrect key ma_general_options.disjunctionBlacklist was corrected from [mna:soulbound, mna:fireproof] to its default, [mna:soulbound, mna:fireproof]. 
+[19:32:56] [Server thread/WARN]: Incorrect key ma_general_options.disenchantBlacklist was corrected from [mna:runic_malus] to its default, [mna:runic_malus]. 
+[19:32:56] [Server thread/WARN]: Incorrect key ma_general_options.repairBlacklist was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key tier_health_boosts was corrected from [0, 2, 4, 6, 8] to its default, [0, 2, 4, 6, 8]. 
+[19:32:56] [Server thread/WARN]: Configuration file C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\saves\ZU WARDO\serverconfig\mna-spells.toml is not correct. Correcting
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/touch.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/touch.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/bolt.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/bolt.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/self.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/self.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/projectile.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/projectile.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/wall.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/wall.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/wave.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/wave.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/emanation.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/emanation.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/beam.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/beam.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/rune.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/rune.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/smite.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/smite.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/bound_sword.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/bound_sword.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/bound_axe.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/bound_axe.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/summon.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/summon.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/wrath.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/wrath.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/bound_bow.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/bound_bow.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/bound_shield.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/bound_shield.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/chain.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/chain.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/fissure.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/fissure.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/focus.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/focus.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/embers.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/embers.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/cone.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:shapes/cone.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:components/fire_damage.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:components/fire_damage.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:56] [Server thread/WARN]: Incorrect key mna:components/frost_damage.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/frost_damage.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/lightning_damage.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/lightning_damage.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/break.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/break.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/fling.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/fling.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/leap.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/leap.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/shield.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/shield.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/slowfall.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/slowfall.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/heal.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/heal.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/rift.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/rift.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/transplace.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/transplace.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/blink.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/blink.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/gust.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/gust.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/light.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/light.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/invisibility.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/invisibility.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/haste.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/haste.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/slow.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/slow.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/strength.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/strength.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/weakness.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/weakness.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/night_vision.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/night_vision.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/blind.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/blind.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/swift_swim.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/swift_swim.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/watery_grave.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/watery_grave.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/entangle.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/entangle.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/gravity_well.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/gravity_well.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/chrono_anchor.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/chrono_anchor.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/silence.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/silence.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/transitory_tile.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/transitory_tile.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/activate.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/activate.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/poison.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:57] [Server thread/WARN]: Incorrect key mna:components/poison.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/drown.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/drown.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/cauterize.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/cauterize.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/magic_damage.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/magic_damage.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/explosion.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/explosion.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/life_tap.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/life_tap.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/fire_shield.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/fire_shield.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/mana_shield.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/mana_shield.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/briarthorn_barrier.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/briarthorn_barrier.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/absorption.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/absorption.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/mana_transfer.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/mana_transfer.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/decoy.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/decoy.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/bloom.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/bloom.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/crystallize.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/crystallize.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/collapse.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/collapse.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/earthsky.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/earthsky.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/true_invisibility.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/true_invisibility.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/nethergate.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/nethergate.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/animus.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/animus.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/confuse.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/confuse.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/mind_control.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/mind_control.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/spectral_crafting_table.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:58] [Server thread/WARN]: Incorrect key mna:components/spectral_crafting_table.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/divination.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/divination.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/mist_form.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/mist_form.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/recall.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/recall.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/eldrin_flight.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/eldrin_flight.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/mind_vision.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/mind_vision.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/summon_skeletal_horse.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/summon_skeletal_horse.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/posession.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/posession.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/living_bomb.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/living_bomb.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/wither.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/wither.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/transitory_tunnel.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/transitory_tunnel.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/felled_oak.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/felled_oak.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/wind_wall.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/wind_wall.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/levitation.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/levitation.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/fortification.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/fortification.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/exchange.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/exchange.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/shear.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/shear.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/bind_wounds.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/bind_wounds.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/fill_hole.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/fill_hole.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/spectral_anvil.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/spectral_anvil.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/spectral_stonecutter.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/spectral_stonecutter.dimensionBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/lmnop.biomeBlacklists was corrected from [] to its default, []. 
+[19:32:59] [Server thread/WARN]: Incorrect key mna:components/lmnop.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/transmute.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/transmute.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/impale.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/impale.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/earthquake.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/earthquake.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/redstone_pulse.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/redstone_pulse.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/pull.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/pull.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/impulse.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/impulse.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/wind_shear.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/wind_shear.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/backdraft.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/backdraft.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/purge.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/purge.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/amplify_magic.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/amplify_magic.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/dampen_magic.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/dampen_magic.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/sunder.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/sunder.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/frailty.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/frailty.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/splash.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/splash.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/sacrifice.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/sacrifice.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/shatter.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/shatter.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/insight.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/insight.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/telekinesis.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/telekinesis.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/disjunction.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/disjunction.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/crucible.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/crucible.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/ice_spike.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:00] [Server thread/WARN]: Incorrect key mna:components/ice_spike.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/spectral_ladder.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/spectral_ladder.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/spectral_web.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/spectral_web.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/water_walking.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/water_walking.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/spider_climbing.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/spider_climbing.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/insect_swarm.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/insect_swarm.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/glide.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/glide.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/lacerate.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/lacerate.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/phantom_sound.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/phantom_sound.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/illusory_creeper.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/illusory_creeper.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/place_block.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/place_block.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/greater_animus.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/greater_animus.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/grow.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/grow.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/shrink.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/shrink.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/life_drain.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/life_drain.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/chill.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/chill.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/heatwave.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/heatwave.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/icarian_flight.biomeBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Server thread/WARN]: Incorrect key mna:components/icarian_flight.dimensionBlacklists was corrected from [] to its default, []. 
+[19:33:01] [Thread-0/WARN]: Configuration file C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\saves\ZU WARDO\serverconfig\mna-spells.toml is not correct. Correcting
+[19:33:01] [Server thread/INFO]: Mana And Artifice >> Applied villager librarian balance changes.
+[19:33:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:33:13] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:13] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:13] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:13] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:13] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:13] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:13] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:14] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:14] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:14] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:14] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:14] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:14] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:15] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:15] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:16] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:16] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:17] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:17] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:18] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:18] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:19] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:19] [Render thread/INFO]: Подготовка области возрождения: 0%
+[19:33:20] [Render thread/INFO]: Подготовка области возрождения: 1%
+[19:33:20] [Render thread/INFO]: Подготовка области возрождения: 1%
+[19:33:21] [Render thread/INFO]: Подготовка области возрождения: 1%
+[19:33:21] [Render thread/INFO]: Подготовка области возрождения: 1%
+[19:33:22] [Render thread/INFO]: Подготовка области возрождения: 1%
+[19:33:22] [Render thread/INFO]: Подготовка области возрождения: 1%
+[19:33:23] [Render thread/INFO]: Подготовка области возрождения: 1%
+[19:33:24] [Render thread/INFO]: Подготовка области возрождения: 1%
+[19:33:24] [Render thread/INFO]: Подготовка области возрождения: 1%
+[19:33:25] [Render thread/INFO]: Подготовка области возрождения: 2%
+[19:33:25] [Render thread/INFO]: Подготовка области возрождения: 3%
+[19:33:26] [Render thread/INFO]: Подготовка области возрождения: 3%
+[19:33:26] [Render thread/INFO]: Подготовка области возрождения: 3%
+[19:33:27] [Render thread/INFO]: Подготовка области возрождения: 4%
+[19:33:27] [Render thread/INFO]: Подготовка области возрождения: 4%
+[19:33:27] [Render thread/INFO]: Подготовка области возрождения: 4%
+[19:33:28] [Render thread/INFO]: Подготовка области возрождения: 6%
+[19:33:28] [Render thread/INFO]: Подготовка области возрождения: 6%
+[19:33:29] [Render thread/INFO]: Подготовка области возрождения: 6%
+[19:33:30] [Render thread/INFO]: Подготовка области возрождения: 6%
+[19:33:30] [Render thread/INFO]: Подготовка области возрождения: 7%
+[19:33:30] [Render thread/INFO]: Подготовка области возрождения: 8%
+[19:33:31] [Render thread/INFO]: Подготовка области возрождения: 8%
+[19:33:32] [Render thread/INFO]: Подготовка области возрождения: 8%
+[19:33:32] [Render thread/INFO]: Подготовка области возрождения: 9%
+[19:33:32] [Render thread/INFO]: Подготовка области возрождения: 9%
+[19:33:33] [Render thread/INFO]: Подготовка области возрождения: 9%
+[19:33:34] [Render thread/INFO]: Подготовка области возрождения: 10%
+[19:33:34] [Render thread/INFO]: Подготовка области возрождения: 10%
+[19:33:34] [Render thread/INFO]: Подготовка области возрождения: 10%
+[19:33:36] [Render thread/INFO]: Подготовка области возрождения: 10%
+[19:33:36] [Render thread/INFO]: Подготовка области возрождения: 10%
+[19:33:36] [Render thread/INFO]: Подготовка области возрождения: 11%
+[19:33:36] [Render thread/INFO]: Подготовка области возрождения: 16%
+[19:33:37] [Render thread/INFO]: Подготовка области возрождения: 18%
+[19:33:38] [Render thread/INFO]: Подготовка области возрождения: 18%
+[19:33:38] [Render thread/INFO]: Подготовка области возрождения: 18%
+[19:33:38] [Render thread/INFO]: Подготовка области возрождения: 21%
+[19:33:39] [Render thread/INFO]: Подготовка области возрождения: 23%
+[19:33:39] [Render thread/INFO]: Подготовка области возрождения: 23%
+[19:33:40] [Render thread/INFO]: Подготовка области возрождения: 39%
+[19:33:40] [Render thread/INFO]: Подготовка области возрождения: 42%
+[19:33:41] [Render thread/INFO]: Подготовка области возрождения: 44%
+[19:33:41] [Render thread/INFO]: Подготовка области возрождения: 49%
+[19:33:42] [Render thread/INFO]: Подготовка области возрождения: 51%
+[19:33:42] [Render thread/INFO]: Подготовка области возрождения: 59%
+[19:33:43] [Render thread/INFO]: Подготовка области возрождения: 75%
+[19:33:43] [Render thread/INFO]: Подготовка области возрождения: 87%
+[19:33:45] [Render thread/INFO]: Time elapsed: 36482 ms
+[19:33:45] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[19:33:47] [Server thread/INFO]: Changing view distance to 6, from 10
+[19:33:47] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[19:33:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
+[19:33:49] [Render thread/WARN]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[19:33:53] [Netty Local Client IO #0/INFO]: Connected to a modded server.
+[19:33:54] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@36141a3c
+[19:33:54] [Server thread/INFO]: CrabRus[local:E:b7934d02] logged in with entity id 179 at (114.56627113086424, 7.0, 432.04303738303963)
+[19:33:54] [Server thread/INFO]: CrabRus присоединился к игре
+[19:33:54] [Server thread/INFO]: Syncing config to CrabRus (7103e776-6722-41bb-9b33-06273d93473d)
+[19:33:54] [Render thread/INFO]: New world map session initialized!
+[19:33:55] [Render thread/INFO]: New minimap session initialized!
+[19:33:55] [Render thread/INFO]: Started 1 worker threads
+[19:33:56] [Render thread/INFO]: Started 1 worker threads
+[19:33:56] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedInEvent
+[19:33:56] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[19:33:58] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[19:33:59] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[19:33:59] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[19:33:59] [Render thread/INFO]: Starting JEI...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: jei:minecraft ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: jei:minecraft took 3.248 ms
+[19:33:59] [Render thread/INFO]: Registering item subtypes: farmersdelight:jei_plugin ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: farmersdelight:jei_plugin took 13.20 ?s
+[19:33:59] [Render thread/INFO]: Registering item subtypes: jade:main ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: jade:main took 9.200 ?s
+[19:33:59] [Render thread/INFO]: Registering item subtypes: jei:forge ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: jei:forge took 7.200 ?s
+[19:33:59] [Render thread/INFO]: Registering item subtypes: jei:debug ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: jei:debug took 11.10 ?s
+[19:33:59] [Render thread/INFO]: Registering item subtypes: sophisticatedcore:default ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: sophisticatedcore:default took 9.900 ?s
+[19:33:59] [Render thread/INFO]: Registering item subtypes: curios:curios ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: curios:curios took 15.50 ?s
+[19:33:59] [Render thread/INFO]: Registering item subtypes: create:jei_plugin ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: create:jei_plugin took 6.900 ?s
+[19:33:59] [Render thread/INFO]: Registering item subtypes: artifacts:main ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: artifacts:main took 10.00 ?s
+[19:33:59] [Render thread/INFO]: Registering item subtypes: mna:jei-integration ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: mna:jei-integration took 10.30 ?s
+[19:33:59] [Render thread/INFO]: Registering item subtypes: sophisticatedbackpacks:default ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: sophisticatedbackpacks:default took 390.0 ?s
+[19:33:59] [Render thread/INFO]: Registering item subtypes: createaddition:jei_plugin ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: createaddition:jei_plugin took 10.10 ?s
+[19:33:59] [Render thread/INFO]: Registering item subtypes: jei:internal ...
+[19:33:59] [Render thread/INFO]: Registering item subtypes: jei:internal took 8.400 ?s
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft took 22.80 ?s
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: farmersdelight:jei_plugin ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: farmersdelight:jei_plugin took 8.400 ?s
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: jade:main ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: jade:main took 9.500 ?s
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: jei:forge ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: jei:forge took 8.300 ?s
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: jei:debug ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: jei:debug took 2.085 ms
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: sophisticatedcore:default ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: sophisticatedcore:default took 38.00 ?s
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: curios:curios ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: curios:curios took 16.10 ?s
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: create:jei_plugin ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: create:jei_plugin took 39.64 ms
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: artifacts:main ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: artifacts:main took 8.400 ?s
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: mna:jei-integration ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: mna:jei-integration took 7.100 ?s
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: sophisticatedbackpacks:default ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: sophisticatedbackpacks:default took 31.30 ?s
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: createaddition:jei_plugin ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: createaddition:jei_plugin took 12.00 ?s
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: jei:internal ...
+[19:33:59] [Render thread/INFO]: Registering fluid subtypes: jei:internal took 13.70 ?s
+[19:33:59] [Render thread/INFO]: Registering ingredients: jei:minecraft ...
+[19:33:59] [Render thread/INFO]: Registering ingredients: jei:minecraft took 249.4 ms
+[19:33:59] [Render thread/INFO]: Registering ingredients: farmersdelight:jei_plugin ...
+[19:33:59] [Render thread/INFO]: Registering ingredients: farmersdelight:jei_plugin took 18.70 ?s
+[19:33:59] [Render thread/INFO]: Registering ingredients: jade:main ...
+[19:33:59] [Render thread/INFO]: Registering ingredients: jade:main took 12.70 ?s
+[19:33:59] [Render thread/INFO]: Registering ingredients: jei:forge ...
+[19:33:59] [Render thread/INFO]: Registering ingredients: jei:forge took 9.800 ?s
+[19:33:59] [Render thread/INFO]: Registering ingredients: jei:debug ...
+[19:33:59] [Render thread/INFO]: Loading config file: C:\Users\gonca\AppData\Roaming\.minecraft\versions\MyCreate\config\jei\jei-client.ini
+[19:33:59] [Render thread/INFO]: Registering ingredients: jei:debug took 37.15 ms
+[19:33:59] [Render thread/INFO]: Registering ingredients: sophisticatedcore:default ...
+[19:33:59] [Render thread/INFO]: Registering ingredients: sophisticatedcore:default took 14.00 ?s
+[19:33:59] [Render thread/INFO]: Registering ingredients: curios:curios ...
+[19:33:59] [Render thread/INFO]: Registering ingredients: curios:curios took 10.80 ?s
+[19:33:59] [Render thread/INFO]: Registering ingredients: create:jei_plugin ...
+[19:33:59] [Render thread/INFO]: Registering ingredients: create:jei_plugin took 10.30 ?s
+[19:33:59] [Render thread/INFO]: Registering ingredients: artifacts:main ...
+[19:33:59] [Render thread/INFO]: Registering ingredients: artifacts:main took 9.500 ?s
+[19:33:59] [Render thread/INFO]: Registering ingredients: mna:jei-integration ...
+[19:33:59] [Render thread/INFO]: Registering ingredients: mna:jei-integration took 46.18 ms
+[19:33:59] [Render thread/INFO]: Registering ingredients: sophisticatedbackpacks:default ...
+[19:33:59] [Render thread/INFO]: Registering ingredients: sophisticatedbackpacks:default took 13.10 ?s
+[19:33:59] [Render thread/INFO]: Registering ingredients: createaddition:jei_plugin ...
+[19:33:59] [Render thread/INFO]: Registering ingredients: createaddition:jei_plugin took 8.900 ?s
+[19:33:59] [Render thread/INFO]: Registering ingredients: jei:internal ...
+[19:33:59] [Render thread/INFO]: Registering ingredients: jei:internal took 8.500 ?s
+[19:33:59] [Render thread/INFO]: Building ingredient list...
+[19:33:59] [Render thread/INFO]: Building ingredient list took 15.48 ms
+[19:33:59] [Render thread/INFO]: Building ingredient filter...
+[19:34:00] [Render thread/INFO]: Adding 3875 ingredients
+[19:34:02] [Render thread/INFO]: Added 3875 ingredients
+[19:34:02] [Render thread/INFO]: Building ingredient filter took 2.974 s
+[19:34:02] [Render thread/INFO]: Building bookmarks...
+[19:34:02] [Render thread/INFO]: Building bookmarks took 63.71 ms
+[19:34:02] [Render thread/INFO]: Registering categories: jei:minecraft ...
+[19:34:02] [Render thread/INFO]: Registering categories: jei:minecraft took 79.04 ms
+[19:34:02] [Render thread/INFO]: Registering categories: farmersdelight:jei_plugin ...
+[19:34:03] [Render thread/INFO]: Registering categories: farmersdelight:jei_plugin took 25.17 ms
+[19:34:03] [Render thread/INFO]: Registering categories: jade:main ...
+[19:34:03] [Render thread/INFO]: Registering categories: jade:main took 17.20 ?s
+[19:34:03] [Render thread/INFO]: Registering categories: jei:forge ...
+[19:34:03] [Render thread/INFO]: Registering categories: jei:forge took 14.70 ?s
+[19:34:03] [Render thread/INFO]: Registering categories: jei:debug ...
+[19:34:03] [Render thread/INFO]: Registering categories: jei:debug took 22.20 ?s
+[19:34:03] [Render thread/INFO]: Registering categories: sophisticatedcore:default ...
+[19:34:03] [Render thread/INFO]: Registering categories: sophisticatedcore:default took 8.800 ?s
+[19:34:03] [Render thread/INFO]: Registering categories: curios:curios ...
+[19:34:03] [Render thread/INFO]: Registering categories: curios:curios took 8.700 ?s
+[19:34:03] [Render thread/INFO]: Registering categories: create:jei_plugin ...
+[19:34:03] [Render thread/INFO]: Registering categories: create:jei_plugin took 151.6 ms
+[19:34:03] [Render thread/INFO]: Registering categories: artifacts:main ...
+[19:34:03] [Render thread/INFO]: Registering categories: artifacts:main took 13.50 ?s
+[19:34:03] [Render thread/INFO]: Registering categories: mna:jei-integration ...
+[19:34:03] [Render thread/INFO]: Registering categories: mna:jei-integration took 37.75 ms
+[19:34:03] [Render thread/INFO]: Registering categories: sophisticatedbackpacks:default ...
+[19:34:03] [Render thread/INFO]: Registering categories: sophisticatedbackpacks:default took 13.50 ?s
+[19:34:03] [Render thread/INFO]: Registering categories: createaddition:jei_plugin ...
+[19:34:03] [Render thread/INFO]: Registering categories: createaddition:jei_plugin took 619.9 ?s
+[19:34:03] [Render thread/INFO]: Registering categories: jei:internal ...
+[19:34:03] [Render thread/INFO]: Registering categories: jei:internal took 2.639 ms
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft took 3.415 ms
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: farmersdelight:jei_plugin ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: farmersdelight:jei_plugin took 10.40 ?s
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: jade:main ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: jade:main took 7.100 ?s
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: jei:forge ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: jei:forge took 7.100 ?s
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: jei:debug ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: jei:debug took 6.900 ?s
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: sophisticatedcore:default ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: sophisticatedcore:default took 6.800 ?s
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: curios:curios ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: curios:curios took 26.30 ?s
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: create:jei_plugin ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: create:jei_plugin took 8.100 ?s
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: artifacts:main ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: artifacts:main took 15.20 ?s
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: mna:jei-integration ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: mna:jei-integration took 11.40 ?s
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: sophisticatedbackpacks:default ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: sophisticatedbackpacks:default took 11.90 ?s
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: createaddition:jei_plugin ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: createaddition:jei_plugin took 11.10 ?s
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: jei:internal ...
+[19:34:03] [Render thread/INFO]: Registering vanilla category extensions: jei:internal took 12.10 ?s
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft took 397.4 ?s
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: farmersdelight:jei_plugin ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: farmersdelight:jei_plugin took 73.20 ?s
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: jade:main ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: jade:main took 10.50 ?s
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: jei:forge ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: jei:forge took 35.60 ?s
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: jei:debug ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: jei:debug took 24.90 ?s
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: sophisticatedcore:default ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: sophisticatedcore:default took 17.90 ?s
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: curios:curios ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: curios:curios took 13.60 ?s
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: create:jei_plugin ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: create:jei_plugin took 2.437 ms
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: artifacts:main ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: artifacts:main took 10.80 ?s
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: mna:jei-integration ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: mna:jei-integration took 213.5 ?s
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: sophisticatedbackpacks:default ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: sophisticatedbackpacks:default took 89.60 ?s
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: createaddition:jei_plugin ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: createaddition:jei_plugin took 906.2 ?s
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: jei:internal ...
+[19:34:03] [Render thread/INFO]: Registering recipe catalysts: jei:internal took 30.40 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: jei:minecraft ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: jei:minecraft took 46.10 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: farmersdelight:jei_plugin ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: farmersdelight:jei_plugin took 19.30 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: jade:main ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: jade:main took 7.900 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: jei:forge ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: jei:forge took 7.100 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: jei:debug ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: jei:debug took 12.80 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: sophisticatedcore:default ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: sophisticatedcore:default took 9.500 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: curios:curios ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: curios:curios took 8.100 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: create:jei_plugin ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: create:jei_plugin took 36.00 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: artifacts:main ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: artifacts:main took 7.000 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: mna:jei-integration ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: mna:jei-integration took 9.800 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: sophisticatedbackpacks:default ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: sophisticatedbackpacks:default took 8.000 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: createaddition:jei_plugin ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: createaddition:jei_plugin took 6.800 ?s
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: jei:internal ...
+[19:34:03] [Render thread/INFO]: Registering advanced plugins: jei:internal took 6.700 ?s
+[19:34:03] [Render thread/INFO]: Building recipe registry...
+[19:34:03] [Render thread/INFO]: Building recipe registry took 163.1 ms
+[19:34:03] [Render thread/INFO]: Registering recipes: jei:minecraft ...
+[19:34:04] [Render thread/INFO]: Registering recipes: jei:minecraft took 846.1 ms
+[19:34:04] [Render thread/INFO]: Registering recipes: farmersdelight:jei_plugin ...
+[19:34:04] [Render thread/INFO]: Registering recipes: farmersdelight:jei_plugin took 84.70 ms
+[19:34:04] [Render thread/INFO]: Registering recipes: jade:main ...
+[19:34:04] [Render thread/INFO]: Registering recipes: jade:main took 54.90 ?s
+[19:34:04] [Render thread/INFO]: Registering recipes: jei:forge ...
+[19:34:04] [Render thread/INFO]: Registering recipes: jei:forge took 146.2 ms
+[19:34:04] [Render thread/INFO]: Registering recipes: jei:debug ...
+[19:34:04] [Render thread/INFO]: Registering recipes: jei:debug took 39.80 ?s
+[19:34:04] [Render thread/INFO]: Registering recipes: sophisticatedcore:default ...
+[19:34:04] [Render thread/INFO]: Registering recipes: sophisticatedcore:default took 5.760 ms
+[19:34:04] [Render thread/INFO]: Registering recipes: curios:curios ...
+[19:34:04] [Render thread/INFO]: Registering recipes: curios:curios took 17.80 ?s
+[19:34:04] [Render thread/INFO]: Registering recipes: create:jei_plugin ...
+[19:34:05] [Render thread/INFO]: Registering recipes: create:jei_plugin took 579.1 ms
+[19:34:05] [Render thread/INFO]: Registering recipes: artifacts:main ...
+[19:34:05] [Render thread/INFO]: Registering recipes: artifacts:main took 9.653 ms
+[19:34:05] [Render thread/INFO]: Registering recipes: mna:jei-integration ...
+[19:34:05] [Render thread/INFO]: Registering recipes: mna:jei-integration took 121.1 ms
+[19:34:05] [Render thread/INFO]: Registering recipes: sophisticatedbackpacks:default ...
+[19:34:05] [Render thread/INFO]: Registering recipes: sophisticatedbackpacks:default took 10.12 ms
+[19:34:05] [Render thread/INFO]: Registering recipes: createaddition:jei_plugin ...
+[19:34:05] [Render thread/INFO]: Registering recipes: createaddition:jei_plugin took 4.116 ms
+[19:34:05] [Render thread/INFO]: Registering recipes: jei:internal ...
+[19:34:05] [Render thread/INFO]: Registering recipes: jei:internal took 15.70 ?s
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft took 4.770 ms
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: farmersdelight:jei_plugin ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: farmersdelight:jei_plugin took 66.00 ?s
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: jade:main ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: jade:main took 19.10 ?s
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge took 12.30 ?s
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug took 22.20 ?s
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: sophisticatedcore:default ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: sophisticatedcore:default took 12.60 ?s
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: curios:curios ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: curios:curios took 11.90 ?s
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: create:jei_plugin ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: create:jei_plugin took 22.35 ms
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: artifacts:main ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: artifacts:main took 12.10 ?s
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: mna:jei-integration ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: mna:jei-integration took 1.247 ms
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: sophisticatedbackpacks:default ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: sophisticatedbackpacks:default took 2.885 ms
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: createaddition:jei_plugin ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: createaddition:jei_plugin took 11.00 ?s
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal ...
+[19:34:05] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal took 19.50 ?s
+[19:34:05] [Render thread/INFO]: Building runtime...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: jei:minecraft ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: jei:minecraft took 5.033 ms
+[19:34:05] [Render thread/INFO]: Registering gui handlers: farmersdelight:jei_plugin ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: farmersdelight:jei_plugin took 84.90 ?s
+[19:34:05] [Render thread/INFO]: Registering gui handlers: jade:main ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: jade:main took 32.40 ?s
+[19:34:05] [Render thread/INFO]: Registering gui handlers: jei:forge ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: jei:forge took 11.60 ?s
+[19:34:05] [Render thread/INFO]: Registering gui handlers: jei:debug ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: jei:debug took 21.00 ?s
+[19:34:05] [Render thread/INFO]: Registering gui handlers: sophisticatedcore:default ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: sophisticatedcore:default took 10.80 ?s
+[19:34:05] [Render thread/INFO]: Registering gui handlers: curios:curios ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: curios:curios took 1.416 ms
+[19:34:05] [Render thread/INFO]: Registering gui handlers: create:jei_plugin ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: create:jei_plugin took 2.389 ms
+[19:34:05] [Render thread/INFO]: Registering gui handlers: artifacts:main ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: artifacts:main took 26.00 ?s
+[19:34:05] [Render thread/INFO]: Registering gui handlers: mna:jei-integration ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: mna:jei-integration took 1.020 ms
+[19:34:05] [Render thread/INFO]: Registering gui handlers: sophisticatedbackpacks:default ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: sophisticatedbackpacks:default took 5.121 ms
+[19:34:05] [Render thread/INFO]: Registering gui handlers: createaddition:jei_plugin ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: createaddition:jei_plugin took 16.30 ?s
+[19:34:05] [Render thread/INFO]: Registering gui handlers: jei:internal ...
+[19:34:05] [Render thread/INFO]: Registering gui handlers: jei:internal took 9.706 ms
+[19:34:05] [Render thread/INFO]: Building runtime took 92.06 ms
+[19:34:05] [Render thread/INFO]: Sending Runtime: jei:minecraft ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: jei:minecraft took 37.30 ?s
+[19:34:05] [Render thread/INFO]: Sending Runtime: farmersdelight:jei_plugin ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: farmersdelight:jei_plugin took 12.60 ?s
+[19:34:05] [Render thread/INFO]: Sending Runtime: jade:main ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: jade:main took 30.20 ?s
+[19:34:05] [Render thread/INFO]: Sending Runtime: jei:forge ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: jei:forge took 12.80 ?s
+[19:34:05] [Render thread/INFO]: Sending Runtime: jei:debug ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: jei:debug took 35.20 ?s
+[19:34:05] [Render thread/INFO]: Sending Runtime: sophisticatedcore:default ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: sophisticatedcore:default took 13.40 ?s
+[19:34:05] [Render thread/INFO]: Sending Runtime: curios:curios ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: curios:curios took 12.20 ?s
+[19:34:05] [Render thread/INFO]: Sending Runtime: create:jei_plugin ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: create:jei_plugin took 9.100 ?s
+[19:34:05] [Render thread/INFO]: Sending Runtime: artifacts:main ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: artifacts:main took 26.70 ?s
+[19:34:05] [Render thread/INFO]: Sending Runtime: mna:jei-integration ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: mna:jei-integration took 7.500 ?s
+[19:34:05] [Render thread/INFO]: Sending Runtime: sophisticatedbackpacks:default ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: sophisticatedbackpacks:default took 7.100 ?s
+[19:34:05] [Render thread/INFO]: Sending Runtime: createaddition:jei_plugin ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: createaddition:jei_plugin took 6.800 ?s
+[19:34:05] [Render thread/INFO]: Sending Runtime: jei:internal ...
+[19:34:05] [Render thread/INFO]: Sending Runtime: jei:internal took 6.600 ?s
+[19:34:05] [Render thread/INFO]: Starting JEI took 6.717 s
+[19:34:05] [Render thread/INFO]: Minimap updated server level id: -279477612 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[19:34:05] [Render thread/INFO]: Received config from the server: {"minecraft:command_block":true}
+[19:34:08] [Render thread/INFO]: Reloading entity icon resources...
+[19:34:08] [Render thread/INFO]: Reloaded entity icon resources!
+[19:34:09] [Render thread/INFO]: Loaded 367 advancements
+[19:34:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2911ms or 58 ticks behind
+[19:34:16] [Server thread/INFO]: Saving and pausing game...
+[19:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:overworld
+[19:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_end
+[19:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_nether
+[19:35:22] [Server thread/INFO]: CrabRus получил достижение «[Охотник на монстров]»
+[19:35:22] [Render thread/INFO]: [CHAT] CrabRus получил достижение «[Охотник на монстров]»
+[19:35:22] [Render thread/INFO]: Loaded 370 advancements
+[19:35:23] [Render thread/INFO]: Loaded 372 advancements
+[19:36:05] [Server thread/INFO]: Saving and pausing game...
+[19:36:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:overworld
+[19:36:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_end
+[19:36:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_nether
+[19:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[19:36:37] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 3.3333333333333335
+[19:36:38] [Render thread/INFO]: can use texture size:TEXTURE_272, middle time: 2.2
+[19:37:35] [Render thread/INFO]: Loaded 375 advancements
+[19:37:54] [Server thread/INFO]: Saving and pausing game...
+[19:37:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:overworld
+[19:37:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_end
+[19:37:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_nether
+[19:38:17] [Render thread/INFO]: Loaded 404 advancements
+[19:38:20] [Server thread/INFO]: Saving and pausing game...
+[19:38:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:overworld
+[19:38:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_end
+[19:38:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_nether
+[19:39:19] [Render thread/INFO]: Loaded 405 advancements
+[19:41:15] [Server thread/INFO]: Saving and pausing game...
+[19:41:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:overworld
+[19:41:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_end
+[19:41:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_nether
+[19:43:18] [Render thread/INFO]: Block file not found: mna:manaweave_cache
+[19:44:04] [Server thread/INFO]: CrabRus получил достижение «[Куй железо...]»
+[19:44:04] [Render thread/INFO]: [CHAT] CrabRus получил достижение «[Куй железо...]»
+[19:44:04] [Render thread/INFO]: Loaded 438 advancements
+[19:44:19] [Render thread/INFO]: Loaded 439 advancements
+[19:44:20] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[19:44:44] [Server thread/INFO]: CrabRus получил достижение «[Поле чудес]»
+[19:44:44] [Render thread/INFO]: [CHAT] CrabRus получил достижение «[Поле чудес]»
+[19:44:44] [Render thread/INFO]: Loaded 439 advancements
+[19:44:55] [Server thread/INFO]: CrabRus получил достижение «[Дикие ростки]»
+[19:44:55] [Render thread/INFO]: [CHAT] CrabRus получил достижение «[Дикие ростки]»
+[19:44:55] [Render thread/INFO]: Loaded 447 advancements
+[19:45:03] [Render thread/INFO]: Loaded 447 advancements
+[19:45:36] [Render thread/INFO]: [CHAT] [Отладка]: Расширенные подсказки: вкл.
+[19:45:50] [Server thread/INFO]: CrabRus получил достижение «[И кирка без дела ржавеет]»
+[19:45:50] [Render thread/INFO]: [CHAT] CrabRus получил достижение «[И кирка без дела ржавеет]»
+[19:45:50] [Render thread/INFO]: Loaded 451 advancements
+[19:45:53] [Render thread/INFO]: Loaded 454 advancements
+[19:46:00] [Render thread/INFO]: Loaded 456 advancements
+[19:46:07] [Render thread/INFO]: Loaded 510 advancements
+[19:46:39] [Render thread/INFO]: Loaded 511 advancements
+[19:46:53] [Render thread/INFO]: Loaded 511 advancements
+[19:48:36] [Server thread/INFO]: CrabRus получил достижение «[Андезитовый век]»
+[19:48:36] [Render thread/INFO]: [CHAT] CrabRus получил достижение «[Андезитовый век]»
+[19:48:36] [Render thread/INFO]: Loaded 511 advancements
+[19:48:43] [Render thread/INFO]: Loaded 529 advancements
+[19:48:50] [Server thread/INFO]: Saving and pausing game...
+[19:48:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:overworld
+[19:48:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_end
+[19:48:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_nether
+[19:49:02] [Render thread/INFO]: Loaded 546 advancements
+[19:49:24] [Render thread/INFO]: [CHAT] Установи мод "Configured" для доступа к внутриигровой конфигурации.
+[19:49:24] [Render thread/INFO]: [CHAT] Установи мод "Configured" для доступа к внутриигровой конфигурации.
+[19:49:27] [Server thread/INFO]: Saving and pausing game...
+[19:49:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:overworld
+[19:49:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_end
+[19:49:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_nether
+[19:49:52] [Render thread/INFO]: Loaded 547 advancements
+[19:53:09] [Render thread/INFO]: Loaded 548 advancements
+[19:53:39] [Server thread/INFO]: CrabRus получил достижение «[Бонк!]»
+[19:53:39] [Render thread/INFO]: [CHAT] CrabRus получил достижение «[Бонк!]»
+[19:53:39] [Render thread/INFO]: Loaded 548 advancements
+[19:54:56] [Render thread/INFO]: Loaded 575 advancements
+[19:55:33] [Render thread/INFO]: Loaded 583 advancements
+[19:55:47] [Render thread/INFO]: Loaded 584 advancements
+[19:57:15] [Render thread/INFO]: Loaded 587 advancements
+[19:57:18] [Render thread/INFO]: Loaded 587 advancements
+[20:01:00] [Render thread/INFO]: Loaded 588 advancements
+[20:01:09] [Render thread/INFO]: Loaded 589 advancements
+[20:02:55] [Render thread/INFO]: Loaded 592 advancements
+[20:02:58] [Render thread/INFO]: Loaded 598 advancements
+[20:04:20] [Render thread/INFO]: Loaded 616 advancements
+[20:05:05] [Render thread/INFO]: Loaded 638 advancements
+[20:05:12] [Render thread/INFO]: Loaded 642 advancements
+[20:06:48] [Server thread/INFO]: Saving and pausing game...
+[20:06:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:overworld
+[20:06:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_end
+[20:06:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_nether
+[20:07:08] [Server thread/INFO]: Saving and pausing game...
+[20:07:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:overworld
+[20:07:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_end
+[20:07:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_nether
+[20:18:34] [Render thread/INFO]: Finalizing world map session...
+[20:18:35] [Thread-6/INFO]: World map cleaned normally!
+[20:18:35] [Render thread/INFO]: World map session finalized.
+[20:18:35] [Render thread/INFO]: Minimap session finalized.
+[20:18:35] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedOutEvent
+[20:18:35] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[20:18:35] [Render thread/INFO]: Stopping JEI
+[20:18:35] [Server thread/INFO]: CrabRus lost connection: Отключение
+[20:18:35] [Server thread/INFO]: CrabRus покинул игру
+[20:18:35] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:18:35] [Server thread/INFO]: Stopping server
+[20:18:35] [Server thread/INFO]: Saving players
+[20:18:35] [Server thread/INFO]: Saving worlds
+[20:18:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:overworld
+[20:18:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_end
+[20:18:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ZU WARDO]'/minecraft:the_nether
+[20:18:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZU WARDO): All chunks are saved
+[20:18:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:18:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:18:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:18:47] [Render thread/INFO]: Stopping worker threads
+[20:18:50] [Render thread/INFO]: Stopping!

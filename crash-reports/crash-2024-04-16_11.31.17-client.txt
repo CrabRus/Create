@@ -1,0 +1,256 @@
+---- Minecraft Crash Report ----
+// Uh... Did I do that?
+
+Time: 16.04.2024, 11:31
+Description: Initializing game
+
+java.lang.NoClassDefFoundError: net/valhelsia/valhelsia_core/core/registry/RegistryManager$Builder
+	at com.stal111.forbidden_arcanus.ForbiddenArcanus.<clinit>(ForbiddenArcanus.java:48) ~[forbidden_arcanus-1.18.2-2.1.3.jar%2366!/:1.18.2-2.1.3] {re:classloading}
+	at com.stal111.forbidden_arcanus.common.item.modifier.ModifierHelper.getModifier(ModifierHelper.java:26) ~[forbidden_arcanus-1.18.2-2.1.3.jar%2366!/:1.18.2-2.1.3] {re:mixin,re:classloading}
+	at net.minecraft.world.item.ItemStack.handler$zzk000$forbiddenArcanus_getHoverName(ItemStack.java:1104) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,xf:fml:forge:itemstack,re:classloading,xf:fml:forge:itemstack,pl:mixin:APP:forbidden_arcanus.mixins.json:ItemStackMixin,pl:mixin:APP:relics.mixins.json:ItemStackMixin,pl:mixin:A}
+	at net.minecraft.world.item.ItemStack.m_41786_(ItemStack.java:593) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,xf:fml:forge:itemstack,re:classloading,xf:fml:forge:itemstack,pl:mixin:APP:forbidden_arcanus.mixins.json:ItemStackMixin,pl:mixin:APP:relics.mixins.json:ItemStackMixin,pl:mixin:A}
+	at net.minecraft.world.item.ItemStack.m_41651_(ItemStack.java:629) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,xf:fml:forge:itemstack,re:classloading,xf:fml:forge:itemstack,pl:mixin:APP:forbidden_arcanus.mixins.json:ItemStackMixin,pl:mixin:APP:relics.mixins.json:ItemStackMixin,pl:mixin:A}
+	at net.minecraft.client.Minecraft.m_91316_(Minecraft.java:701) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:rubidium.mixins.json:core.MixinMinecraftClient,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:sodium-extra.mixins.json:gui.MinecraftClientAccessor,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:create.mixins.json:client.WindowResizeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.searchtree.ReloadableSearchTree.m_8074_(ReloadableSearchTree.java:36) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:classloading}
+	at net.minecraft.client.searchtree.ReloadableIdSearchTree.m_8080_(ReloadableIdSearchTree.java:48) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:classloading}
+	at net.minecraft.client.Minecraft.lambda$createSearchTrees$10(Minecraft.java:719) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:rubidium.mixins.json:core.MixinMinecraftClient,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:sodium-extra.mixins.json:gui.MinecraftClientAccessor,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:create.mixins.json:client.WindowResizeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?] {re:mixin}
+	at net.minecraft.client.Minecraft.m_91271_(Minecraft.java:718) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:rubidium.mixins.json:core.MixinMinecraftClient,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:sodium-extra.mixins.json:gui.MinecraftClientAccessor,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:create.mixins.json:client.WindowResizeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:506) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:rubidium.mixins.json:core.MixinMinecraftClient,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:sodium-extra.mixins.json:gui.MinecraftClientAccessor,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:create.mixins.json:client.WindowResizeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.2.4.jar%2318!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?] {}
+Caused by: java.lang.ClassNotFoundException: net.valhelsia.valhelsia_core.core.registry.RegistryManager$Builder
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-1.0.8.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-1.0.8.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?] {}
+	... 26 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at com.stal111.forbidden_arcanus.ForbiddenArcanus.<clinit>(ForbiddenArcanus.java:48) ~[forbidden_arcanus-1.18.2-2.1.3.jar%2366!/:1.18.2-2.1.3] {re:classloading}
+	at com.stal111.forbidden_arcanus.common.item.modifier.ModifierHelper.getModifier(ModifierHelper.java:26) ~[forbidden_arcanus-1.18.2-2.1.3.jar%2366!/:1.18.2-2.1.3] {re:mixin,re:classloading}
+	at net.minecraft.world.item.ItemStack.handler$zzk000$forbiddenArcanus_getHoverName(ItemStack.java:1104) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,xf:fml:forge:itemstack,re:classloading,xf:fml:forge:itemstack,pl:mixin:APP:forbidden_arcanus.mixins.json:ItemStackMixin,pl:mixin:APP:relics.mixins.json:ItemStackMixin,pl:mixin:A}
+	at net.minecraft.world.item.ItemStack.m_41786_(ItemStack.java:593) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,xf:fml:forge:itemstack,re:classloading,xf:fml:forge:itemstack,pl:mixin:APP:forbidden_arcanus.mixins.json:ItemStackMixin,pl:mixin:APP:relics.mixins.json:ItemStackMixin,pl:mixin:A}
+	at net.minecraft.world.item.ItemStack.m_41651_(ItemStack.java:629) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,xf:fml:forge:itemstack,re:classloading,xf:fml:forge:itemstack,pl:mixin:APP:forbidden_arcanus.mixins.json:ItemStackMixin,pl:mixin:APP:relics.mixins.json:ItemStackMixin,pl:mixin:A}
+	at net.minecraft.client.Minecraft.m_91316_(Minecraft.java:701) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:rubidium.mixins.json:core.MixinMinecraftClient,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:sodium-extra.mixins.json:gui.MinecraftClientAccessor,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:create.mixins.json:client.WindowResizeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.searchtree.ReloadableSearchTree.m_8074_(ReloadableSearchTree.java:36) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:classloading}
+	at net.minecraft.client.searchtree.ReloadableIdSearchTree.m_8080_(ReloadableIdSearchTree.java:48) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:classloading}
+	at net.minecraft.client.Minecraft.lambda$createSearchTrees$10(Minecraft.java:719) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:rubidium.mixins.json:core.MixinMinecraftClient,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:sodium-extra.mixins.json:gui.MinecraftClientAccessor,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:create.mixins.json:client.WindowResizeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?] {re:mixin}
+	at net.minecraft.client.Minecraft.m_91271_(Minecraft.java:718) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:rubidium.mixins.json:core.MixinMinecraftClient,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:sodium-extra.mixins.json:gui.MinecraftClientAccessor,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:create.mixins.json:client.WindowResizeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:506) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:rubidium.mixins.json:core.MixinMinecraftClient,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:sodium-extra.mixins.json:gui.MinecraftClientAccessor,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:create.mixins.json:client.WindowResizeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+-- Initialization --
+Details:
+	Modules: 
+		ADVAPI32.dll:Расширенная библиотека API Windows 32:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		COMCTL32.dll:Библиотека элементов управления взаимодействия с пользователем:6.10 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPT32.dll:API32 криптографии:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTBASE.dll:Base cryptographic API DLL:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTSP.dll:Cryptographic Service Provider API:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		ColorAdapterClient.dll:Microsoft Color Adapter Client:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		CoreMessaging.dll:Microsoft CoreMessaging Dll:10.0.19041.3930:Microsoft Corporation
+		CoreUIComponents.dll:Microsoft Core UI Components Dll:10.0.19041.3636:Microsoft Corporation
+		DBGHELP.DLL:Windows Image Helper:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		DEVOBJ.dll:Device Information Set DLL:10.0.19041.3996 (WinBuild.160101.0800):Microsoft Corporation
+		DNSAPI.dll:Динамическая библиотека API DNS-клиента:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		GDI32.dll:GDI Client DLL:10.0.19041.3996 (WinBuild.160101.0800):Microsoft Corporation
+		GLU32.dll:Библиотека подпрограмм OpenGL:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		HID.DLL:Библиотека пользователя HID:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		IMM32.DLL:Multi-User Windows IMM32 API Client DLL:10.0.19041.3996 (WinBuild.160101.0800):Microsoft Corporation
+		IPHLPAPI.DLL:API вспомогательного приложения IP:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		KERNEL32.DLL:Библиотека клиента Windows NT BASE API:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		KERNELBASE.dll:Библиотека клиента Windows NT BASE API:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		MMDevApi.dll:MMDevice API:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		MSASN1.dll:ASN.1 Runtime APIs:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		MSCTF.dll:Серверная библиотека MSCTF:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		MpOav.dll:IOfficeAntiVirus Module:4.18.24030.9 (cd8105518e5571788ee3b6a178bae8fbcdf461a8):Microsoft Corporation
+		NLAapi.dll:Network Location Awareness 2:10.0.19041.4123 (WinBuild.160101.0800):Microsoft Corporation
+		NSI.dll:NSI User-mode interface DLL:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		OLEAUT32.dll:OLEAUT32.DLL:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		Ole32.dll:Microsoft OLE для Windows:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		OpenAL.dll
+		PROPSYS.dll:Система страниц свойств (Майкрософт):7.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		PSAPI.DLL:Process Status Helper:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		Pdh.dll:Модуль поддержки данных производительности Windows:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		RPCRT4.dll:Библиотека удаленного вызова процедур:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		SETUPAPI.DLL:Windows Setup API:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		SHCORE.dll:SHCORE:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		SHELL32.dll:Общая библиотека оболочки Windows:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		UMPDC.dll
+		USER32.dll:Многопользовательская библиотека клиента USER API Windows:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		USERENV.dll:Userenv:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		VCRUNTIME140.dll:Microsoft® C Runtime Library:14.29.30133.0 built by: vcwrkspc:Microsoft Corporation
+		VERSION.dll:Version Checking and File Installation Libraries:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		WINHTTP.dll:Службы HTTP Windows:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		WINMM.dll:MCI API DLL:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		WINSTA.dll:Winstation Library:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		WINTRUST.dll:Microsoft Trust Verification APIs:10.0.19041.4291 (WinBuild.160101.0800):Microsoft Corporation
+		WS2_32.dll:32-разрядная библиотека Windows Socket 2.0:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		WSOCK32.dll:Windows Socket 32-Bit DLL:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		WTSAPI32.dll:Windows Remote Desktop Session Host Server SDK APIs:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		Wldp.dll:Политика блокировки Windows:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		amsi.dll:Anti-Malware Scan Interface:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		bcrypt.dll:Библиотека криптографических примитивов Windows:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		bcryptPrimitives.dll:Windows Cryptographic Primitives Library:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		cfgmgr32.dll:Configuration Manager DLL:10.0.19041.3996 (WinBuild.160101.0800):Microsoft Corporation
+		clbcatq.dll:COM+ Configuration Catalog:2001.12.10941.16384 (WinBuild.160101.0800):Microsoft Corporation
+		combase.dll:Microsoft COM для Windows:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		cryptnet.dll:Crypto Network Related API:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		dbgcore.DLL:Windows Core Debugging Helpers:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		dhcpcsvc.DLL:Служба DHCP-клиента:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		dhcpcsvc6.DLL:Клиент DHCPv6:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		dinput8.dll:Microsoft DirectInput:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		drvstore.dll:Driver Store API:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		dwmapi.dll:Интерфейс API диспетчера окон рабочего стола (Майкрософт):10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		dxcore.dll:DXCore:10.0.19041.3996 (WinBuild.160101.0800):Microsoft Corporation
+		fwpuclnt.dll:API пользовательского режима FWP/IPsec:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		gdi32full.dll:GDI Client DLL:10.0.19041.4239 (WinBuild.160101.0800):Microsoft Corporation
+		glfw.dll
+		icm32.dll:Microsoft Color Management Module (CMM):10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		inputhost.dll:InputHost:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		java.dll:OpenJDK Platform binary:17.0.1.0:Microsoft
+		javaw.exe:OpenJDK Platform binary:17.0.1.0:Microsoft
+		jimage.dll:OpenJDK Platform binary:17.0.1.0:Microsoft
+		jli.dll:OpenJDK Platform binary:17.0.1.0:Microsoft
+		jna11307625065693285564.dll:JNA native library:6.1.2:Java(TM) Native Access (JNA)
+		jvm.dll:OpenJDK 64-Bit server VM:17.0.1.0:Microsoft
+		kernel.appcore.dll:AppModel API Host:10.0.19041.3758 (WinBuild.160101.0800):Microsoft Corporation
+		lwjgl.dll
+		lwjgl_opengl.dll
+		lwjgl_stb.dll
+		management.dll:OpenJDK Platform binary:17.0.1.0:Microsoft
+		management_ext.dll:OpenJDK Platform binary:17.0.1.0:Microsoft
+		mscms.dll:DLL-библиотека системы сопоставления цветов Майкрософт:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		msvcp140.dll:Microsoft® C Runtime Library:14.29.30133.0 built by: vcwrkspc:Microsoft Corporation
+		msvcp_win.dll:Microsoft® C Runtime Library:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		msvcrt.dll:Windows NT CRT DLL:7.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		mswsock.dll:Расширение поставщика службы API Microsoft Windows Sockets 2.0:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		napinsp.dll:Поставщик оболочки совместимости для имен электронной почты:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		net.dll:OpenJDK Platform binary:17.0.1.0:Microsoft
+		nio.dll:OpenJDK Platform binary:17.0.1.0:Microsoft
+		ntdll.dll:Системная библиотека NT:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		ntmarta.dll:Поставщик Windows NT MARTA:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		nvoglv64.dll:NVIDIA Compatible OpenGL ICD:31.0.15.3623:NVIDIA Corporation
+		opengl32.dll:OpenGL Client DLL:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		perfos.dll:Библиотека объектов производительности системы Windows:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		pnrpnsp.dll:Поставщик пространства имен PNRP:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		powrprof.dll:DLL модуля поддержки профиля управления питанием:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		profapi.dll:User Profile Basic API:10.0.19041.4239 (WinBuild.160101.0800):Microsoft Corporation
+		rasadhlp.dll:Remote Access AutoDial Helper:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		rsaenh.dll:Microsoft Enhanced Cryptographic Provider:10.0.19041.1 (WinBuild.160101.0800):Microsoft Corporation
+		sechost.dll:Host for SCM/SDDL/LSA Lookup APIs:10.0.19041.1 (WinBuild.160101.0800):Microsoft Corporation
+		shlwapi.dll:Библиотека небольших программ оболочки:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		svml.dll:OpenJDK Platform binary:17.0.1.0:Microsoft
+		textinputframework.dll:"TextInputFramework.DYNLINK":10.0.19041.4239 (WinBuild.160101.0800):Microsoft Corporation
+		ucrtbase.dll:Microsoft® C Runtime Library:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		uxtheme.dll:Библиотека тем UxTheme (Microsoft):10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		vcruntime140_1.dll:Microsoft® C Runtime Library:14.29.30133.0 built by: vcwrkspc:Microsoft Corporation
+		verify.dll:OpenJDK Platform binary:17.0.1.0:Microsoft
+		win32u.dll:Win32u:10.0.19041.4291 (WinBuild.160101.0800):Microsoft Corporation
+		windows.storage.dll:API хранения Microsoft WinRT:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		winrnr.dll:LDAP RnR Provider DLL:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		wintypes.dll:Библиотека DLL основных типов Windows:10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		wshbth.dll:Windows Sockets Helper DLL:10.0.19041.3636 (WinBuild.160101.0800):Microsoft Corporation
+		xinput1_4.dll:API общего контроллера (Майкрософт):10.0.19041.4165 (WinBuild.160101.0800):Microsoft Corporation
+		zip.dll:OpenJDK Platform binary:17.0.1.0:Microsoft
+Stacktrace:
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%2388!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.2.4.jar%2318!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.18.2
+	Minecraft Version ID: 1.18.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.1, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+	Memory: 2252258560 bytes (2147 MiB) / 2785017856 bytes (2656 MiB) up to 5368709120 bytes (5120 MiB)
+	CPUs: 4
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+	Identifier: Intel64 Family 6 Model 42 Stepping 7
+	Microarchitecture: Sandy Bridge (Client)
+	Frequency (GHz): 3,29
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: NVIDIA GeForce GT 1030
+	Graphics card #0 vendor: NVIDIA (0x10de)
+	Graphics card #0 VRAM (MB): 2048,00
+	Graphics card #0 deviceId: 0x1d01
+	Graphics card #0 versionInfo: DriverVersion=31.0.15.3623
+	Memory slot #0 capacity (MB): 4096,00
+	Memory slot #0 clockSpeed (GHz): 1,33
+	Memory slot #0 type: DDR3
+	Memory slot #1 capacity (MB): 4096,00
+	Memory slot #1 clockSpeed (GHz): 1,33
+	Memory slot #1 type: DDR3
+	Virtual memory max (MB): 14290,55
+	Virtual memory used (MB): 8821,18
+	Swap memory total (MB): 6144,00
+	Swap memory used (MB): 436,55
+	JVM Flags: 9 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Xmx5090M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	Launched Version: MyCreate
+	Backend library: LWJGL version 3.2.2 SNAPSHOT
+	Backend API: NVIDIA GeForce GT 1030/PCIe/SSE2 GL version 3.2.0 NVIDIA 536.23, NVIDIA Corporation
+	Window size: <not initialized>
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'forge'
+	Type: Client (map_client.txt)
+	CPU: 4x Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+	ModLauncher: 9.1.3+9.1.3+main.9b69c82a
+	ModLauncher launch target: forgeclient
+	ModLauncher naming: srg
+	ModLauncher services: 
+		 mixin PLUGINSERVICE 
+		 eventbus PLUGINSERVICE 
+		 slf4jfixer PLUGINSERVICE 
+		 object_holder_definalize PLUGINSERVICE 
+		 runtime_enum_extender PLUGINSERVICE 
+		 capability_token_subclass PLUGINSERVICE 
+		 accesstransformer PLUGINSERVICE 
+		 runtimedistcleaner PLUGINSERVICE 
+		 mixin TRANSFORMATIONSERVICE 
+		 fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		client-1.18.2-20220404.173914-srg.jar             |Minecraft                     |minecraft                     |1.18.2              |NONE      |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		forge-1.18.2-40.2.4-universal.jar                 |Forge                         |forge                         |40.2.4              |NONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
